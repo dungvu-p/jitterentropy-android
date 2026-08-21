@@ -1,0 +1,23 @@
+*.iml
+.gradle
+.gradle-user-home
+local.properties
+.idea
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+
+# Local Node artifacts
+/node_modules/
+/package.json
+/package-lock.json
+
+# Versioned release AARs in /dist are intentionally committed.

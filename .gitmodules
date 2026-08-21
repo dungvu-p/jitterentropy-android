@@ -1,0 +1,3 @@
+[submodule "vendor/jitterentropy-library"]
+	path = vendor/jitterentropy-library
+	url = git@github.com:smuellerDD/jitterentropy-library.git
